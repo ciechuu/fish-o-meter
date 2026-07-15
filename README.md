@@ -1,2 +1,0 @@
-# fishometer prototype
- for fun
